@@ -8,14 +8,14 @@ atingiu o tamanho limite estabelecido, poderia simplifica-lo mais ainda, porem c
 
 ## Email que enviara para outros emails
 No código fonte existe duas variaveis constantes:
-# EMAIL e PASSWORD 
+#### EMAIL e PASSWORD 
 Nelas será definido as informacoes do email que ira enviar os emails
 
 
-# unityAndFile.txt
+#### unityAndFile.txt
  Dentro do projeto que fiz, existem 38 servidores onde iria rodar este script, então na primeira linha deste arquivo é difinido o nome da unidade
  
  Na segunda linha é definido o local do arquivo a ser avaliado
 
- # email.txt
+ #### email.txt
  Deve ser inserido por linha cada email que desejar receber essas mensagens
